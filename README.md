@@ -21,10 +21,14 @@ Script description
 - parse_memo.py - loader data into the mongo database
 
 Folders description:
+- data - collection of JSON files from lists.memo.ru (needs to be downloaded and unpacked from - )
 - refined - extracted data using analyze.py
-- data - collection of JSON files from lists.memo.ru
+- refined2 - temp data
 
-
+Data:
+ - refined data as collection of CSV files - http://6342f487daa9ab45319c-2c5452fae23e39db0ab761bf51a001b6.r74.cf2.rackcdn.com/memo/memo_refined.zip
+ - raw data - http://6342f487daa9ab45319c-2c5452fae23e39db0ab761bf51a001b6.r74.cf2.rackcdn.com/memo/memo_data_json.zip
+ - Mongo database dump as BSON - http://6342f487daa9ab45319c-2c5452fae23e39db0ab761bf51a001b6.r74.cf2.rackcdn.com/memo/memo_data_json.zip
 
 ## Terms of use
 
