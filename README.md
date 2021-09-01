@@ -26,9 +26,9 @@ Folders description:
 - refined2 - temp data
 
 Data:
- - refined data as collection of CSV files - http://cdn1.sdlabs.ru/public/datacollect/memo.ru/memo_refined.zip
- - raw data - http://cdn1.sdlabs.ru/public/datacollect/memo.ru/memo_data_json.zip
- - Mongo database dump as BSON - http://cdn1.sdlabs.ru/public/datacollect/memo.ru/memo_data_json.zip
+ - refined data as collection of CSV files - http://cdn.ruarxive.org/public/datacollect/memo.ru/memo_refined.zip
+ - raw data - http://cdn.ruarxive.org/public/datacollect/memo.ru/memo_data_json.zip
+ - Mongo database dump as BSON - http://cdn.ruarxive.org/public/datacollect/memo.ru/memo_data_json.zip
 
 ## Terms of use
 
